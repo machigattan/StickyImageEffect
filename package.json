@@ -21,11 +21,11 @@
   "homepage": "https://github.com/crnacura/CodropsTemplate#readme",
   "devDependencies": {
     "@babel/core": "^7.4.0",
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.3.1"
   },
   "dependencies": {
     "popmotion": "^8.6.4",
     "stats.js": "^0.17.0",
-    "three": "^0.101.1"
+    "three": "^0.155.0"
   }
 }
